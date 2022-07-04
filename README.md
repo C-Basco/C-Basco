@@ -1,6 +1,6 @@
 ### Hi there, i'M Constance Basco 👋
 
-<!--
+
 **C-Basco/C-Basco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a self taught data enthusiest who is trying to grow their data analytical skills. I have a interest in data analytics but enjoy all tings data such as learning about 
