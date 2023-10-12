@@ -1,8 +1,9 @@
 ### Hi there, I'm Constance Basco 👋
 
-I'm a self taught data enthusiest who is trying to grow their data analytical skills. I have a interest in data analytics but enjoy all tings data such as learning about 
-Machine Learning and building ML models and running perdictive analysis. When I'm not learning and working I enjoy:
+I am a software engineer who is continously learning and growing. Here on my github you will see different projects ranging from data analytics to machine learning and of course my main skill pathway... software engineering. 
 
-- :video_game: Playing Video Games (trying to beat Elden Ring) 
+When I'm not learning and working I enjoy:
+
+- :video_game: Playing Video Games (Trying to get through the souls games) 
 - :clapper: Video Editing 
 - :books: Reading
